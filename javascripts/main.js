@@ -34,7 +34,6 @@ function showSectionsCount() {
 $(document).ready(function() {
 
     $("#hideable_btn").click(function() {
-        console.log('CLICKED');
         $(this).hide();
     });
 
